@@ -1,0 +1,25 @@
+<resources>
+    <string-array name="array_volume">
+        <item>Liter</item>
+        <item>Milliliter</item>
+        <item>US Gallon</item>
+        <item>US Quart</item>
+        <item>US Pint</item>
+        <item>US Cup</item>
+        <item>US Fluid Ounce</item>
+        <item>US Tablespoon</item>
+        <item>US Teaspoon</item>
+        <item>UK Gallon</item>
+        <item>UK Quart</item>
+        <item>UK Pint</item>
+        <item>UK Fluid Ounce</item>
+        <item>UK Tablespoon</item>
+        <item>UK Teaspoon</item>
+        <item>Cubic Meter</item>
+        <item>Cubic Centimeter</item>
+        <item>Cubic Millimeter</item>
+        <item>Cubic Yard</item>
+        <item>Cubic Foot</item>
+        <item>Cubic Inch</item>
+    </string-array>
+</resources>

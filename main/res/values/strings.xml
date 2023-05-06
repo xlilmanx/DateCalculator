@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Days Calculator</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Date-to-Date</string>
+    <string name="second_fragment_label">Date Calculator</string>
+    <string name="initial_date">Initial Date</string>
+    <string name="final_date">Final Date</string>
+    <string name="text_number_days">Number of Days</string>
+    <string name="text_space"> </string>
+    <string name="text_total_number_days">Total Number of Days</string>
+    <string name="fab_label">fab_label</string>
+    <string name="alert_days_title">Input number of days</string>
+    <string name="cancel" tools:ignore="ButtonCase">CANCEL</string>
+    <string name="accept">ACCEPT</string>
+    <string name="to">to</string>
+    <string name="monday">Monday</string>
+    <string name="_0">0</string>
+</resources>
