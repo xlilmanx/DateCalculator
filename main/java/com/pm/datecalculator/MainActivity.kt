@@ -39,8 +39,10 @@ class MainActivity : AppCompatActivity() {
             findNavController(R.id.nav_host_fragment_content_main).navigate(R.id.action_FirstFragment_to_SecondFragment)
             currentFragment=1
             } else if (currentFragment==1) {
-                findNavController(R.id.nav_host_fragment_content_main).navigate(R.id.action_SecondFragment_to_ThirdFragment)
-                currentFragment=2
+                findNavController(R.id.nav_host_fragment_content_main).navigate(R.id.action_SecondFragment_to_FirstFragment)
+                currentFragment=0
+                //findNavController(R.id.nav_host_fragment_content_main).navigate(R.id.action_SecondFragment_to_ThirdFragment)
+                //currentFragment=2
             } else {
                 findNavController(R.id.nav_host_fragment_content_main).navigate(R.id.action_ThirdFragment_to_FirstFragment)
                 currentFragment=0
